@@ -1,0 +1,27 @@
+{
+  "name": "testrepo1",
+  "version": "1.0.0",
+  "description": "test repository",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChumakovAndrey12/testRepo1.git"
+  },
+  "author": "Andrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChumakovAndrey12/testRepo1/issues"
+  },
+  "homepage": "https://github.com/ChumakovAndrey12/testRepo1#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0"
+  },
+  "dependencies": {
+    "metarhia-common": "^0.0.38"
+  }
+}
